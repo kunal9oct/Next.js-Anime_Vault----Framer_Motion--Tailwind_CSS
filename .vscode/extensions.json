@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "rapidapi.vscode-rapidapi-client",
+    "rapidapi.vscode-services",
+    "mongodb.mongodb-vscode",
+    "akamud.vscode-theme-onedark"
+  ]
+}
